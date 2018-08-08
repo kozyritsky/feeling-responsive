@@ -2,7 +2,7 @@
 layout: page
 sidebar: left
 subheadline: Templates
-title: Если вы обнаружили свое имущество у другого
+title: esli-vy-obnaruzhili-svoe-imushhestvo-u-drugogo
 teaser: esli-vy-obnaruzhili-svoe-imushhestvo-u-drugogo
 breadcrumb: true
 tags:
@@ -53,5 +53,4 @@ image:
 
 В завершении хочется пожелать вам быть бдительными  — так как никто так не сбережет ваше имущество так, как это сделаете вы. Не давайте себя в обиду – выход найдется всегда.
 
-Николай Коленчук, январь 2017
-<!--base32-dnqq4t8-base32-->
+Николай Коленчук, январь 2017<!--base32-dnqq4t8-base32-->
